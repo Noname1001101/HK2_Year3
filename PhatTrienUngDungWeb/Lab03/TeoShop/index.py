@@ -1,0 +1,1 @@
+print("Chào mừng bạn đến với TeoShop - Hệ thống đang chạy trên cổng 65535!")
