@@ -1,3 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Multi Language App</string>
+    <string name="welcome">accueil</string>
+    <string name="email">adresse e-mail</string>
+    <string name="password">mot de passe</string>
+    <string name="login">CONNEXION</string>
+    <string name="sign_up_prompt">Ne pas avoir un compte? signer</string>
+    <string name="empty_fields">Veuillez remplir tous les champs</string>
+    <string name="login_success">Connexion réussie!</string>
 </resources>
