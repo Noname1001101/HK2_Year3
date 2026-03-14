@@ -1,2 +1,2 @@
 BTAndroid/money-tracker/
-BTAndroid\learnConnectDatabase
+BTAndroid/learnConnectDatabase/
