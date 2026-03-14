@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Từ vựng</string>
+    <string name="txt_ecentials">Essentials</string>
+    <string name="txt_traveling">While Traveling</string>
+    <string name="txt_medical">Help / Medical</string>
+    <string name="txt_hotel">At the hotel</string>
+    <string name="txt_restaurant">At the Restaurant</string>
+    <string name="txt_bar">At the Bar</string>
+    <string name="txt_store">At the Store</string>
+    <string name="txt_work">Work</string>
+    <string name="txt_time">Time</string>
+    <string name="txt_education">Education</string>
+    <string name="txt_entertainment">Entertainment</string>
+</resources>
